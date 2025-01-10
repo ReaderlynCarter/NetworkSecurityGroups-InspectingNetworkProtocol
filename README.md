@@ -26,9 +26,11 @@ This tutorial covers testing the IP address on a local machine, checking the IP 
 2. **Test IP Location Without VPN on Virtual Machine**  
    Log into a Virtual Machine (VM) on Azure. Open a browser and visit [WhatIsMyIPAddress](https://whatismyipaddress.com/) to check the IP address.
 
-   [![Watch the video on Testing IP Location Without VPN](https://img.youtube.com/vi/YFNkjJf3lo8/0.jpg)](https://www.youtube.com/watch?v=YFNkjJf3lo8)
+  ![image](https://github.com/user-attachments/assets/9947ebd2-5005-4fd2-be7a-e0c6e2ea16da)
 
-   *Click the image or [here](https://www.youtube.com/watch?v=YFNkjJf3lo8) to watch a video demo.*
+ Click image of <a href="https://youtu.be/jCEK4lwp4sI" target="_blank">here</a> to watch the video.
+</p>
+<a href="https://youtu.be/jCEK4lwp4sI"_blank">
 
 
 3. **Test IP Location With VPN on Virtual Machine**  
