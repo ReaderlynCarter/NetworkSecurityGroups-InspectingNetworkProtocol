@@ -36,18 +36,14 @@ This tutorial covers testing the IP address on a local machine, checking the IP 
 3. **Test IP Location With VPN on Virtual Machine**  
    Install ProtonVPN on the virtual machine. Connect to a VPN server in a different country (e.g., Japan). Visit [WhatIsMyIPAddress](https://whatismyipaddress.com/) and note the new IP address.
 
-   [![Watch the video on Testing IP Location With VPN](https://img.youtube.com/vi/zyeGKbw1tGI/0.jpg)](https://www.youtube.com/watch?v=zyeGKbw1tGI)
+ ![image](https://github.com/user-attachments/assets/6b200185-8de1-444e-965f-eead2d9b946c)
 
-   *Click the image or [here](https://www.youtube.com/watch?v=zyeGKbw1tGI) to watch a video demo.*
+ Click image of <a href="https://youtu.be/jXjVva51958" target="_blank">here</a> to watch the video.
+</p>
+<a href="https://youtu.be/jXjVva51958">
 
-4. **Clean Up Azure Resources**  
-   Delete the resource group containing the VM in Azure to avoid unnecessary charges.
-
-   <p align="center">
-     <img src="https://i.ibb.co/8mg1jKj/Screenshot-2024-11-29-at-11-18-49-PM.png" alt="Clean Up Resources"/>
-   </p>
-
-<h2>Actions and Observations</h2>
+ 
+ <h2>Actions and Observations</h2>
 
 <p>
   The local machine’s IP address shows the actual location. The VM’s IP address reflects the region of the VM. With ProtonVPN enabled, the local machine’s IP address will show the location of the VPN server (e.g., Japan).
